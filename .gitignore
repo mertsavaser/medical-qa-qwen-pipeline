@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+# data & artifacts
+documents/datasets_base/
+documents/tokenize_datasets/
+finetuned_qwen_model_200k/
+data/
+
+*.jsonl
+*.arrow
+*.pt
+*.bin
+*.safetensors
+*.zip
